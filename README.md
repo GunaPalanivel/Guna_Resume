@@ -91,3 +91,7 @@
    - [GitHub Repository](https://github.com/GunaPalanivel/Malaysian-Desi.git)
    - Preview: [Link](https://malaysian-desi.pages.dev/)
    - Front-end web development expertise in HTML, CSS, and Bootstrap, creating visually appealing and responsive user interfaces.
+
+---
+## Detailed Resume
+For a more detailed overview of my background, education, skills, and professional experience, please refer to the [PDF file](#) included in this repository.
