@@ -1,4 +1,4 @@
-# Guna Palanivel - Resume Repository
+# Guna Palanivel - Resume
 
 ## Contact Information
 - **Location:** Chennai, India
