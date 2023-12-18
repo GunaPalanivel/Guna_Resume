@@ -94,4 +94,4 @@
 
 ---
 ## Detailed Resume
-For a more detailed overview of my background, education, skills, and professional experience, please refer to the [PDF file](https://github.com/GunaPalanivel/Guna_B.tech-ECE-_Resume/blob/main/Guna_BTech(ECE).pdf) included in this repository.
+For a more detailed overview of my background, education, skills, and professional experience, please refer to the [PDF file](https://github.com/GunaPalanivel/Guna_B.tech-ECE-_Resume/blob/main/Guna_BTech(ECE).pdf) included in this resume.
