@@ -25,10 +25,10 @@
 ## Skills
 ### Programming
 - Familiar with:
-  - Python
   - HTML5
   - CSS3
   - JavaScript
+  - Python
 
 ### Database
 - Familiar with:
@@ -72,14 +72,14 @@
 2. **WEATHERWISE**
    - [GitHub Repository](https://github.com/GunaPalanivel/WeatherWise.git)
    - Preview: [Link](https://weatherwise.pages.dev/)
+  
+3. **DICE DUAL**
+   - [GitHub Repository](https://github.com/GunaPalanivel/Dice-Duel.git)
+   - Preview: [Link](https://dice-duel.pages.dev/)
 
-3. **FULLSTACK.DEV**
+4. **FULLSTACK.DEV**
    - [GitHub Repository](https://github.com/GunaPalanivel/fullstack.dev.git)
    - Preview: [Link](https://fullstack-dev.pages.dev/)
-
-4. **STACK.DEV**
-   - [GitHub Repository](https://github.com/GunaPalanivel/stack.dev.git)
-   - Preview: [Link](https://stack-dev.pages.dev/)
 
 ## Projects
 1. **SNACKSPOINT**
