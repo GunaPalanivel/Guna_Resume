@@ -1,94 +1,31 @@
-# Guna Palanivel - Resume
+# 📝 Guna Palanivel's Resume
 
-## Contact Information
-- **Location:** Chennai, India
-- **Email:** gunapalanivel2003@gmail.com
-- **Phone:** +91 9952380651
-- **Links** [My Links](https://gunalinks.pages.dev/)
-- **PersonalPortfolio** [Portfolio](https://gunaprofile.pages.dev/)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/guna-palanivel)
-- **GitHub:** [GitHub Profile](https://github.com/GunaPalanivel)
+Welcome to the repository of my resume. This resume is built using LaTeX, a high-quality typesetting system. It is suitable for any professional looking to showcase their skills, experience, and work history in a clean and elegant format.
 
-## Education
-- **SRM UNIVERSITY**
-  - *BTech In Electronics and Communication Engineering*
-  - Sep 2021 - Jun 2025 | Chennai, India
+## 📚 Overview
 
-- **SRI RAGAVENDRA SCHOOL**
-  - *Higher Secondary Course in Computer Science and Mathematics* - May 2021 | Salem, India
+The resume is divided into two main sections:
 
+1. **🎓 Left Column**: Contains details about my education, links to my professional profiles, personal projects, and a list of my skills.
+2. **💼 Right Column**: Contains my work experience, courses and training, and significant projects.
 
-  - *Secondary School Leaving Certificate* - May 2019 | Salem, India
+## 🌟 Features
 
-## Skills
-### Programming
-- Familiar with:
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Python
+- **🎓 Education**: Details about my academic background from SRM University and Sri Ragavendra School.
+- **🔗 Links**: Quick access to my professional profiles and personal projects.
+- **💻 Skills**: A comprehensive list of my technical skills, including programming languages, databases, operating systems, version control tools, and software.
+- **👔 Experience**: A detailed overview of my professional experience, including my role as a UI Designer at IoTIoT.in.
+- **📚 Courses and Training**: Information about the professional courses and training I have undertaken to enhance my skills.
+- **🚀 Projects**: A showcase of the significant projects I have worked on.
 
-### Database
-- Familiar with:
-  - MySQL
-  - MongoDB
+## 👀 Preview
 
-### Operating System
-- Windows Subsystem for Linux (WSL)
-  - Ubuntu
+You can view the PDF version of my resume [here](https://github.com/GunaPalanivel/Guna_B.tech-ECE-Resume/blob/main/Guna_BTech(ECE).pdf).
 
-### Version Control Tool
-- Git
-- Github
+## 📞 Contact
 
-### Software
-- Visual Studio Code
-- MySQL Workbench
-- Anaconda Navigator
+Feel free to reach out to me at [gunapalanivel2003@gmail.com](mailto:gunapalanivel2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/guna-palanivel/). You can also visit my [personal portfolio](https://gunaprofile.pages.dev/) and [links page](https://gunalinks.pages.dev/) for more information.
 
-## Courses and Training
-- **FULL STACK WEB DEVELOPER - MEAN STACK**
-  - Simplilearn | Master's Program
-  - May 2023 – Present
-  -  Possesses a solid foundational on Simplilearn’s MEAN Stack Master’s rogram, showcasing solid foundational knowledge in full-stack web development technologies.
+## 📜 License
 
-- **PYTHON FOR EVERYBODY SPECIALIZATION**
-  - Coursera | The University of Michigan
-  - Nov 2022 – Mar 2023
-  -  Developed a solid foundation in Python programming fundamentals through the Python for Everybody Specialization on Coursera.
-
-- **LEARNING WINDOWS SUBSYSTEM FOR LINUX**
-  - LinkedIn Learning | Scott Simpson
-  - Apr 2022
-  - Effectively utilized WSL to run Linux applications and tools within the Windows environment, highlighting my ability to leverage both operating systems seamlessly.
-
- 
-## Projects
-1. **BANKIST*
-   - [GitHub Repository](https://github.com/GunaPalanivel/Bankist.git)
-   - Preview: [Link](https://bankist-yuu.pages.dev/)
-
-2. **MALAYSIAN-DESI**
-   - [GitHub Repository](https://github.com/GunaPalanivel/Malaysian-Desi.git)
-   - Preview: [Link](https://malaysian-desi.pages.dev/)
-
-## Personal Projects
-1. **DICE DUEL**
-   - [GitHub Repository](https://github.com/GunaPalanivel/Dice%20Duel.git)
-   - Preview: [Link](https://dice-duel.pages.dev/)
-
-2. **DECODE THE DIGIT DELIGHT**
-   - [GitHub Repository](https://github.com/GunaPalanivel/Decode-the-Digit-Delight-.git)
-   - Preview: [Link](https://codepen.io/Guna-Palanivel/pen/bGZdZPL)
-  
-3. **STRATOVISION**
-   - [GitHub Repository](https://github.com/GunaPalanivel/StratoVision.git)
-   - Preview: [Link](https://stratovision.pages.dev/)
-  
-4. **CALCXPRESS**
-   - [GitHub Repository](https://github.com/GunaPalanivel/CalcXpress.git)
-   - Preview: [Link](https://gunapalanivel.github.io/CalcXpress/)
-
----
-## Detailed Resume
-For a more detailed overview of my background, education, skills, and professional experience, please refer to the [PDF file](https://github.com/GunaPalanivel/Guna_B.tech-ECE-_Resume/blob/main/Guna_BTech(ECE).pdf) included in this resume.
+This project is open source and available under the [MIT License](LICENSE).
