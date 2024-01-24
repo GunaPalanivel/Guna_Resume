@@ -20,12 +20,12 @@ The resume is divided into two main sections:
 
 ## 👀 Preview
 
-You can view the PDF version of my resume [here](https://drive.google.com/file/d/1zlaUfgw5lvaEeZ6gS-YwNzqpw1NiVvJ8/view?usp=sharing).
+- You can view the PDF version of my resume [here](https://drive.google.com/file/d/1zlaUfgw5lvaEeZ6gS-YwNzqpw1NiVvJ8/view?usp=sharing).
 
 ## 📞 Contact
 
-Feel free to reach out to me at [gunapalanivel2003@gmail.com](mailto:gunapalanivel2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/guna-palanivel/). You can also visit my [personal portfolio](https://gunaprofile.pages.dev/) and [links page](https://gunalinks.pages.dev/) for more information.
+- Feel free to reach out to me at [gunapalanivel2003@gmail.com](mailto:gunapalanivel2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/guna-palanivel/). You can also visit my [personal portfolio](https://gunaprofile.pages.dev/) and [links page](https://gunalinks.pages.dev/) for more information.
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+- This project is open source and available under the [MIT License](LICENSE).
