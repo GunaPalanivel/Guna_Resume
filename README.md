@@ -20,7 +20,7 @@ The resume is divided into two main sections:
 
 ## 👀 Preview
 
-You can view the PDF version of my resume [here](https://github.com/GunaPalanivel/Guna_B.tech-ECE-Resume/blob/main/Guna_BTech(ECE).pdf).
+You can view the PDF version of my resume [here](https://drive.google.com/file/d/1zlaUfgw5lvaEeZ6gS-YwNzqpw1NiVvJ8/view?usp=sharing).
 
 ## 📞 Contact
 
