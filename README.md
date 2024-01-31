@@ -20,7 +20,7 @@ The resume is divided into two main sections:
 
 ## 👀 Preview
 
-- You can view the PDF version of my resume [here](https://drive.google.com/file/d/1zlaUfgw5lvaEeZ6gS-YwNzqpw1NiVvJ8/view?usp=sharing).
+- You can view the PDF version of my resume on the drive and navigate through the links [here](https://drive.google.com/file/d/1zlaUfgw5lvaEeZ6gS-YwNzqpw1NiVvJ8/view?usp=sharing).
 
 ## 📞 Contact
 
