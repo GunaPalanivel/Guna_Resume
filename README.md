@@ -24,7 +24,7 @@ The resume is divided into two main sections:
 
 ## 📞 Contact
 
-- Feel free to reach out to me at [gunapalanivel2003@gmail.com](mailto:gunapalanivel2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/guna-palanivel/). You can also visit my [personal portfolio](https://gunaprofile.pages.dev/) and [links page](https://gunalinks.pages.dev/) for more information.
+- Feel free to reach out to me at [Gmail](mailto:gunapalanivel2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/guna-palanivel/). You can also visit my [personal portfolio](https://gunaprofile.pages.dev/) and [links page](https://gunalinks.pages.dev/) for more information.
 
 ## 📜 License
 
