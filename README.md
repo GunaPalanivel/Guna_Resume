@@ -4,10 +4,7 @@ Welcome to the repository of my resume. This resume is built using LaTeX, a high
 
 ## 📚 Overview
 
-The resume is divided into two main sections:
-
-1. **🎓 Left Column**: Contains information about my education, links to professional profiles, mini-projects, and a list of skills.
-2. **💼 Right Column**: Which encompasses work experience, courses, training, and notable projects.
+📋Encompassing information about my education, links to professional profiles, a list of skills, work experience, courses, training, and notable projects.
 
 ## 🌟 Features
 
